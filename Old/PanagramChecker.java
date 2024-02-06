@@ -1,3 +1,4 @@
+package Old;
 public  class PanagramChecker{
 
     public static void main(String args[]){

@@ -1,3 +1,4 @@
+package Old;
 public class Conversion{
 /*
 Create a function taking a positive integer between 1 and 3999 (both included) 
