@@ -1,6 +1,4 @@
 package Logic2;
-
-import java.util.*;
 public class PlayGround{
     
     // public boolean makeBricks(int small, int big, int goal) {
